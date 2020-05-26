@@ -46,7 +46,7 @@
 ## Projects (Freelance)
 |Icon|Term|Description|-|
 |:--|:--|:--|:-:|
-|![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2018.11 ~ 2019.8|睡眠改善サービス|-|
+|![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2018.11 ~ 2020.12|睡眠改善サービス|-|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2017.8 ~ 2018.10|フォトブックサービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2018_01.md)|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2016.12 ~ 2017.5|FinTech系サービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2017_01.md)|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2016.4 ~ 2016.10|人材業向けサービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2016_02.md)|
