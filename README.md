@@ -46,7 +46,7 @@
 ## Projects (Freelance)
 |Icon|Term|Description|-|
 |:--|:--|:--|:-:|
-|![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2023.2 ~ 2023.6|店舗口コミサービス|-|
+|![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2023.2 ~ 2023.6|店舗口コミサービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2023_01.md)|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2022.3 ~ 2022.11|動画配信サービス|-|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2020.8 ~ 2022.2|こども成長記録アプリ|-|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2021.8 ~ 2021.12|姿勢分析サービス|-|
