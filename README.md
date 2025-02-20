@@ -24,7 +24,7 @@
 ## Work Experience
 
 #### [🌵](https://monstar-lab.com "フリーランサー") Freelance
-- 2014.10 ~ 現在
+- 2014.10 ~
 - iOS Engineer
 
 #### [🌿](https://monstar-lab.com "モンラブ") モンスター・ラボ
@@ -46,6 +46,8 @@
 ## Projects (Freelance)
 |Icon|Term|Description|-|
 |:--|:--|:--|:-:|
+|![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2023.12~ |天気予報提供サービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2023_03.md)|
+|![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2023.7~ 2023.11|保育園のこどもの写真管理サービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2023_02.md)|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2023.2 ~ 2023.6|店舗口コミサービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2023_01.md)|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2022.3 ~ 2022.11|動画配信サービス|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2022_01.md)|
 |![](https://github.com/Noodlekim/RESUME/blob/master/images/sample.png?raw=true=50x50)|2020.8 ~ 2022.2|こども成長記録アプリ|[一部詳細](https://github.com/Noodlekim/RESUME/blob/master/projects/2020_01.md)|
